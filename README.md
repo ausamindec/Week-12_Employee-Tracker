@@ -58,7 +58,7 @@ A command-line application that at a minimum allows the user to:
 </h1>
 
 ### walkthrough GIF
-![employee-tracker](./demo_week-12)
+![employee-tracker](https://github.com/ausamindec/Week-12_Employee-Tracker/blob/main/demo_week-12.gif)
 
 ### Constraints
 ```md
