@@ -1,0 +1,25 @@
+{
+  "name": "week-12_employee-tracker",
+  "version": "1.0.0",
+  "description": "Employee tracker for non-technical users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "watch": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-amin:ausamindec/Week-12_Employee-Tracker.git"
+  },
+  "author": "Amin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.0"
+  },
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.2",
+    "mysql2": "^2.3.3"
+  }
+}
